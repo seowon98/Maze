@@ -44,8 +44,9 @@ void printmaze()
 <img width ="300" src="https://user-images.githubusercontent.com/60779441/77487426-c85d2d00-6e75-11ea-8ff1-5c54bd8c1f6d.png">
 <img width ="300" src="https://user-images.githubusercontent.com/60779441/77487432-cabf8700-6e75-11ea-8534-5612a38c0c9d.png">
 <img width ="300" src="https://user-images.githubusercontent.com/60779441/77487437-ceeba480-6e75-11ea-978b-eb4da7829a3e.png">
-</div>	
+</div>
 
 결과 화면
+<div>
 <img src="https://user-images.githubusercontent.com/60779441/77487444-d1e69500-6e75-11ea-9447-c9a7d0a27a39.png">
-
+</div>
