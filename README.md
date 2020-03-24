@@ -34,7 +34,7 @@ void printmaze()
 막다른 길이라면 돌아가기, Pop으로 이전 위치 가져오기, 되돌아간 길 3으로 표시 
 * 모든 위치를 push하는 이유: 갈림길이 2개 이상인 곳만 저장하면 막다른 길까지 지나갔던 자리가 다 2로 저장되지만 돌아오는 건 갈림길이 2개 이상인 곳만 3으로 바뀌여서 그 사이(막다른 길~ 갈림길 2개 이상인 곳)의 2가 3으로 변하지 않는다.
 <div>
-[image](https://user-images.githubusercontent.com/60779441/77487169-13c30b80-6e75-11ea-8554-192a54a4b593.png)
-[image](https://user-images.githubusercontent.com/60779441/77487179-1c1b4680-6e75-11ea-9a65-d6d2074627c0.png)
-[image](https://user-images.githubusercontent.com/60779441/77487182-20476400-6e75-11ea-80f3-0d0ff8ce2631.png)
-<div>
+<img src="https://user-images.githubusercontent.com/60779441/77487169-13c30b80-6e75-11ea-8554-192a54a4b593.png">
+<img src="https://user-images.githubusercontent.com/60779441/77487179-1c1b4680-6e75-11ea-9a65-d6d2074627c0.png">
+<img src="https://user-images.githubusercontent.com/60779441/77487182-20476400-6e75-11ea-80f3-0d0ff8ce2631.png">
+</div>
